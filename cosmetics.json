@@ -62,7 +62,7 @@
 {
 "name": "_Tizian",
 "uuid": "b620ae8b-63df-4663-9944-837e1122c55e",
-"enabled": "true",
+"enabled": "false",
 "rabbit-enabled": "true",
 "cape-enabled": "false",
 "hat-enabled": "false",
